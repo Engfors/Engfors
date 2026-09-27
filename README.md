@@ -1,4 +1,21 @@
-- 👋 Hi, I’m @Engfors
-- 👀 I work as a Senior Solutions Engineer at HashiCorp, I am focused on working with our partners to help them design and implement solutions using our suite of infrastructure automation and security tools. <br>This may involve helping our partners understand how to use our products, such as Terraform, Vault, and Consul, in their specific environment and providing guidance on best practices for infrastructure as code, secure application delivery, and cloud architecture. <br>My role requires a strong technical background and the ability to communicate complex technical concepts to both technical and non-technical audiences. <br>I may also be involved in pre-sales activities, such as providing product demonstrations and creating technical proposals for potential customers. <br>Overall, my goal is to help our partners successfully adopt and utilize our products to achieve their infrastructure and security goals.
-- 🌱 I’m planning to learn GO that pairs well with my work with IaC!
-- 📫 Please check out my [LinkedIn](https://linkedin.com/in/emil-engfors) and/or [Twitter](https://twitter.com/engfors) to learn more about me or if you'd like to have a chat!
+# Emil Engfors
+
+Sr. EMEA Customer Success Architect and Nordics Customer Success Engineer at **HashiCorp, an IBM Company** · Stockholm, Sweden
+
+## About
+
+I work with HashiCorp customers on infrastructure and security lifecycle management: architecture across EMEA, and customer success engineering in the Nordics.
+
+Before this, I led partner solutions engineering for HashiCorp across EMEA. Earlier I was Country CTO at Devoteam G Cloud, where I led the HashiCorp partnership and delivered infrastructure as code on Google Cloud.
+
+I have a degree in Computer Networks from Luleå University of Technology. I work in Swedish and English.
+
+## Tech
+
+- **HashiCorp:** Terraform · Vault · Consul · HCP
+- **Cloud & platforms:** Google Cloud · Kubernetes
+- **Languages:** HCL · Python · Go
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/emil-engfors/)
