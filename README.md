@@ -1,4 +1,29 @@
-- 👋 Hi, I’m @Engfors
-- 👀 I work as a Senior Solutions Engineer at HashiCorp, I am focused on working with our partners to help them design and implement solutions using our suite of infrastructure automation and security tools. <br>This may involve helping our partners understand how to use our products, such as Terraform, Vault, and Consul, in their specific environment and providing guidance on best practices for infrastructure as code, secure application delivery, and cloud architecture. <br>My role requires a strong technical background and the ability to communicate complex technical concepts to both technical and non-technical audiences. <br>I may also be involved in pre-sales activities, such as providing product demonstrations and creating technical proposals for potential customers. <br>Overall, my goal is to help our partners successfully adopt and utilize our products to achieve their infrastructure and security goals.
-- 🌱 I’m planning to learn GO that pairs well with my work with IaC!
-- 📫 Please check out my [LinkedIn](https://linkedin.com/in/emil-engfors) and/or [Twitter](https://twitter.com/engfors) to learn more about me or if you'd like to have a chat!
+# Emil Engfors
+
+Customer Success Engineer, Nordics at **HashiCorp, an IBM Company** · Stockholm, Sweden
+
+## About
+
+- I work with customers across the Nordics to adopt and get lasting value from the HashiCorp portfolio.
+- I focus on infrastructure as code, secrets management and identity-based security, and platform engineering.
+- I translate complex technical concepts into practical guidance for both engineering teams and business stakeholders.
+
+## Tech
+
+- **HashiCorp:** Terraform · Vault · Consul · Boundary · Packer · HCP
+- **Cloud & platforms:** AWS · Google Cloud · Azure · Kubernetes
+- **Languages:** HCL · Go · Python · TypeScript
+
+## Currently
+
+- Building small projects in Go
+- Exploring AI-assisted development workflows
+
+## Projects
+
+- [terraform-tfe-workspace-factory](https://github.com/Engfors/terraform-tfe-workspace-factory) – Terraform module for creating workspaces on Terraform Cloud / Enterprise
+- [terraform-cloudflare-dns-record](https://github.com/Engfors/terraform-cloudflare-dns-record) – Terraform module for provisioning Cloudflare DNS records
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/emil-engfors/)
